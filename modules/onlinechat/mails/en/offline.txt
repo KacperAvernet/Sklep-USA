@@ -1,0 +1,8 @@
+Vous venez de recevoir un nouveau message
+
+Name : {OCHAT_FORM_NAME}
+Phone : {OCHAT_FORM_PHONE}
+Email : {OCHAT_FORM_EMAIL}
+Message : {OCHAT_FORM_MESSAGE}
+
+A bientôt sur {shop_name}

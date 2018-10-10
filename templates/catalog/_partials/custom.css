@@ -1,0 +1,160 @@
+/*
+ * Custom code goes here.
+ * A template should always ship with an empty custom.css
+ */
+#header {
+    background-color: #d55858;
+}
+
+#header .header-top a[data-depth="0"] {
+    color: white;
+    font-size: 20px;
+}
+
+#header a {
+    color: white;
+}
+
+#wrapper {
+    background: white;
+    padding-top: 8.5rem;
+}
+
+.product-flags .new {
+    background: #d55858 !important;
+}
+
+.btn-primary {
+    background-color: #d55858;
+}
+
+.product-description {
+    height: 125px !important;
+}
+
+.adddescription {
+    color: #d55858 !important;
+    text-align: center;
+    margin-top: 10px;
+}
+
+.rightcolumnmenu {
+    float: right !important;
+    background-color: #d55858;
+    color: white;
+    border-radius: 12px;
+    height: 300px;
+    width: 24.66667% !important
+}
+
+.rightcolumnmenu2 {
+    background-color: #d55858;
+    color: white;
+    box-shadow: none;
+    padding: 1.563rem 1.25rem;
+
+}
+
+.ordertittle {
+    color: white !important;
+    font-size: 23px;
+}
+
+.orderh2 {
+    font-size: 20px !important;
+    color: white !important;
+    margin-left: 50px;
+}
+
+.btnplaceorder {
+    background-color: white;
+    color: #d55858;
+    border-radius: 10px;
+    text-transform: uppercase !important;
+    font-weight: 700;
+    margin-top: 100px !important;
+    margin-left: 50px !important;
+}
+
+.menucategory {
+    margin-top: -65px;
+    float: right;
+    margin-right: -48px;
+}
+
+.price {
+    color: black;
+}
+
+a:hover {
+    color: black !important;
+}
+
+.menucategory > div > a {
+    color: #d55858 !important;
+    border-right: 1px solid black;
+    padding-right: 5px;
+}
+
+.menucategory > div > a:last-child {
+    color: #d55858 !important;
+    border-right: 0px;
+    padding-right: 0px;
+
+}
+
+.menunav {
+    margin-left: -56px;
+}
+
+.order__quantityWrap {
+    margin-right: 5px;
+    display: -webkit-box;
+    text-align: -webkit-center;
+    margin-top: 15px;
+}
+
+.inputorder {
+    width: 35px !important;
+}
+
+.imgplusminus {
+    width: 30px;
+    height: 30px;
+}
+
+.menu__plus {
+    width: 34px;
+    height: 22px;
+}
+
+#add-to-cart-or-refresh {
+    width: 34px;
+    height: 22px;
+}
+
+.addtocartdesc {
+    float: right;
+    width: auto;
+}
+
+.cartadd {
+    background-color: white;
+    color: #d55858;
+    border-radius: 10px;
+    text-transform: uppercase !important;
+    font-weight: 700;
+}
+
+.btn-primary:hover{
+    color: black !important;
+}
+.container{
+    width: 1340px;
+}
+.productedit{
+    height: 430px !important;
+}
+.productdescription{
+    margin-bottom: 70px !important;
+}
